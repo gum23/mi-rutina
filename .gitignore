@@ -1,2 +1,5 @@
 //ignorar node_modules
 node_modules
+
+//ignorar archivo .env con datos sensibles
+.env
